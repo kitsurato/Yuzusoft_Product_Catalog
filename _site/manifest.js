@@ -1,5 +1,5 @@
 window.CATALOG_DATA = {
-  "totalImages": 659,
+  "totalImages": 670,
   "works": [
     {
       "code": "all",
@@ -7,7 +7,7 @@ window.CATALOG_DATA = {
       "folder": "__all__",
       "logo": "../01_1_logo_yuzusoft.jpg",
       "fallbackImage": "../01_1_logo_yuzusoft.jpg",
-      "imageCount": 659,
+      "imageCount": 670,
       "products": [
         {
           "code": "iccard_sticker",
@@ -1767,13 +1767,33 @@ window.CATALOG_DATA = {
           "folder": "capsule_扭蛋",
           "images": [
             {
+              "name": "17_tensz_acrylic_KH_CL2.jpg",
+              "src": "../tensz_%E5%A4%A9%E4%BD%BF%E2%98%86%E7%BA%B7%E6%89%B0%20RE-BOOT%21/capsule_%E6%89%AD%E8%9B%8B/17_tensz_acrylic_KH_CL2.jpg",
+              "work": "天使☆纷扰 RE-BOOT!"
+            },
+            {
               "name": "1_tensz_capsule_ac_cl.jpg",
               "src": "../tensz_%E5%A4%A9%E4%BD%BF%E2%98%86%E7%BA%B7%E6%89%B0%20RE-BOOT%21/capsule_%E6%89%AD%E8%9B%8B/1_tensz_capsule_ac_cl.jpg",
               "work": "天使☆纷扰 RE-BOOT!"
             },
             {
+              "name": "2_tensz_acrylicstandCL.jpg",
+              "src": "../tensz_%E5%A4%A9%E4%BD%BF%E2%98%86%E7%BA%B7%E6%89%B0%20RE-BOOT%21/capsule_%E6%89%AD%E8%9B%8B/2_tensz_acrylicstandCL.jpg",
+              "work": "天使☆纷扰 RE-BOOT!"
+            },
+            {
               "name": "16_stella_capsule_akusutaCL.jpg",
               "src": "../stella_%E6%98%9F%E5%85%89%E5%92%96%E5%95%A1%E9%A6%86%E4%B8%8E%E6%AD%BB%E7%A5%9E%E4%B9%8B%E8%9D%B6/capsule_%E6%89%AD%E8%9B%8B/16_stella_capsule_akusutaCL.jpg",
+              "work": "星光咖啡馆与死神之蝶"
+            },
+            {
+              "name": "18_stella_capsule_KH.jpg",
+              "src": "../stella_%E6%98%9F%E5%85%89%E5%92%96%E5%95%A1%E9%A6%86%E4%B8%8E%E6%AD%BB%E7%A5%9E%E4%B9%8B%E8%9D%B6/capsule_%E6%89%AD%E8%9B%8B/18_stella_capsule_KH.jpg",
+              "work": "星光咖啡馆与死神之蝶"
+            },
+            {
+              "name": "3_stella_mini_acrylic_CL.jpg",
+              "src": "../stella_%E6%98%9F%E5%85%89%E5%92%96%E5%95%A1%E9%A6%86%E4%B8%8E%E6%AD%BB%E7%A5%9E%E4%B9%8B%E8%9D%B6/capsule_%E6%89%AD%E8%9B%8B/3_stella_mini_acrylic_CL.jpg",
               "work": "星光咖啡馆与死神之蝶"
             },
             {
@@ -1797,8 +1817,28 @@ window.CATALOG_DATA = {
               "work": "RIDDLE JOKER"
             },
             {
+              "name": "4_RJ_mini_acrylic_CL_1.jpg",
+              "src": "../riddle_RIDDLE%20JOKER/capsule_%E6%89%AD%E8%9B%8B/4_RJ_mini_acrylic_CL_1.jpg",
+              "work": "RIDDLE JOKER"
+            },
+            {
+              "name": "5_RJ_mini_acrylic_CL_2.jpg",
+              "src": "../riddle_RIDDLE%20JOKER/capsule_%E6%89%AD%E8%9B%8B/5_RJ_mini_acrylic_CL_2.jpg",
+              "work": "RIDDLE JOKER"
+            },
+            {
               "name": "23_senren_capsule3.jpg",
               "src": "../senren_%E5%8D%83%E6%81%8B%EF%BC%8A%E4%B8%87%E8%8A%B1/capsule_%E6%89%AD%E8%9B%8B/23_senren_capsule3.jpg",
+              "work": "千恋＊万花"
+            },
+            {
+              "name": "6_sen_mini_acrylic_CL_1.jpg",
+              "src": "../senren_%E5%8D%83%E6%81%8B%EF%BC%8A%E4%B8%87%E8%8A%B1/capsule_%E6%89%AD%E8%9B%8B/6_sen_mini_acrylic_CL_1.jpg",
+              "work": "千恋＊万花"
+            },
+            {
+              "name": "7_sen_mini_acrylic_CL_2.jpg",
+              "src": "../senren_%E5%8D%83%E6%81%8B%EF%BC%8A%E4%B8%87%E8%8A%B1/capsule_%E6%89%AD%E8%9B%8B/7_sen_mini_acrylic_CL_2.jpg",
               "work": "千恋＊万花"
             },
             {
@@ -1812,6 +1852,11 @@ window.CATALOG_DATA = {
               "work": "魔女的夜宴"
             },
             {
+              "name": "8_sw_mini_acrylic_CL.jpg",
+              "src": "../sabbat_%E9%AD%94%E5%A5%B3%E7%9A%84%E5%A4%9C%E5%AE%B4/capsule_%E6%89%AD%E8%9B%8B/8_sw_mini_acrylic_CL.jpg",
+              "work": "魔女的夜宴"
+            },
+            {
               "name": "26_ama_capsule_1.jpg",
               "src": "../amairo_%E5%A4%A9%E8%89%B2%E5%B9%BB%E6%83%B3%E5%B2%9B/capsule_%E6%89%AD%E8%9B%8B/26_ama_capsule_1.jpg",
               "work": "天色幻想岛"
@@ -1820,6 +1865,16 @@ window.CATALOG_DATA = {
               "name": "27_ama_capsule_2.jpg",
               "src": "../amairo_%E5%A4%A9%E8%89%B2%E5%B9%BB%E6%83%B3%E5%B2%9B/capsule_%E6%89%AD%E8%9B%8B/27_ama_capsule_2.jpg",
               "work": "天色幻想岛"
+            },
+            {
+              "name": "9_ama_mini_acrylic_CL.jpg",
+              "src": "../amairo_%E5%A4%A9%E8%89%B2%E5%B9%BB%E6%83%B3%E5%B2%9B/capsule_%E6%89%AD%E8%9B%8B/9_ama_mini_acrylic_CL.jpg",
+              "work": "天色幻想岛"
+            },
+            {
+              "name": "10_DRA_mini_acrylic_CL.jpg",
+              "src": "../dracu_DRACU-RIOT%21/capsule_%E6%89%AD%E8%9B%8B/10_DRA_mini_acrylic_CL.jpg",
+              "work": "DRACU-RIOT!"
             },
             {
               "name": "28_dra_capsule_1.jpg",
@@ -3888,7 +3943,7 @@ window.CATALOG_DATA = {
       "folder": "tensz_天使☆纷扰 RE-BOOT!",
       "logo": "../tensz_%E5%A4%A9%E4%BD%BF%E2%98%86%E7%BA%B7%E6%89%B0%20RE-BOOT%21/logo_%E6%A0%87%E5%BF%97/14_logo_tensz.jpg",
       "fallbackImage": "../tensz_%E5%A4%A9%E4%BD%BF%E2%98%86%E7%BA%B7%E6%89%B0%20RE-BOOT%21/ac_board_%E4%BA%9A%E5%85%8B%E5%8A%9B%E6%9D%BF/16_tensz_ac_board.jpg",
-      "imageCount": 64,
+      "imageCount": 66,
       "products": [
         {
           "code": "ac_board",
@@ -4018,8 +4073,16 @@ window.CATALOG_DATA = {
           "folder": "capsule_扭蛋",
           "images": [
             {
+              "name": "17_tensz_acrylic_KH_CL2.jpg",
+              "src": "../tensz_%E5%A4%A9%E4%BD%BF%E2%98%86%E7%BA%B7%E6%89%B0%20RE-BOOT%21/capsule_%E6%89%AD%E8%9B%8B/17_tensz_acrylic_KH_CL2.jpg"
+            },
+            {
               "name": "1_tensz_capsule_ac_cl.jpg",
               "src": "../tensz_%E5%A4%A9%E4%BD%BF%E2%98%86%E7%BA%B7%E6%89%B0%20RE-BOOT%21/capsule_%E6%89%AD%E8%9B%8B/1_tensz_capsule_ac_cl.jpg"
+            },
+            {
+              "name": "2_tensz_acrylicstandCL.jpg",
+              "src": "../tensz_%E5%A4%A9%E4%BD%BF%E2%98%86%E7%BA%B7%E6%89%B0%20RE-BOOT%21/capsule_%E6%89%AD%E8%9B%8B/2_tensz_acrylicstandCL.jpg"
             }
           ]
         },
@@ -4434,7 +4497,7 @@ window.CATALOG_DATA = {
       "folder": "stella_星光咖啡馆与死神之蝶",
       "logo": "../stella_%E6%98%9F%E5%85%89%E5%92%96%E5%95%A1%E9%A6%86%E4%B8%8E%E6%AD%BB%E7%A5%9E%E4%B9%8B%E8%9D%B6/logo_%E6%A0%87%E5%BF%97/12_logo_stella.jpg",
       "fallbackImage": "../stella_%E6%98%9F%E5%85%89%E5%92%96%E5%95%A1%E9%A6%86%E4%B8%8E%E6%AD%BB%E7%A5%9E%E4%B9%8B%E8%9D%B6/2waybag_%E4%B8%A4%E7%94%A8%E5%8C%85/95_stella_2waybag_001.jpg",
-      "imageCount": 140,
+      "imageCount": 142,
       "products": [
         {
           "code": "2waybag",
@@ -4692,6 +4755,14 @@ window.CATALOG_DATA = {
             {
               "name": "16_stella_capsule_akusutaCL.jpg",
               "src": "../stella_%E6%98%9F%E5%85%89%E5%92%96%E5%95%A1%E9%A6%86%E4%B8%8E%E6%AD%BB%E7%A5%9E%E4%B9%8B%E8%9D%B6/capsule_%E6%89%AD%E8%9B%8B/16_stella_capsule_akusutaCL.jpg"
+            },
+            {
+              "name": "18_stella_capsule_KH.jpg",
+              "src": "../stella_%E6%98%9F%E5%85%89%E5%92%96%E5%95%A1%E9%A6%86%E4%B8%8E%E6%AD%BB%E7%A5%9E%E4%B9%8B%E8%9D%B6/capsule_%E6%89%AD%E8%9B%8B/18_stella_capsule_KH.jpg"
+            },
+            {
+              "name": "3_stella_mini_acrylic_CL.jpg",
+              "src": "../stella_%E6%98%9F%E5%85%89%E5%92%96%E5%95%A1%E9%A6%86%E4%B8%8E%E6%AD%BB%E7%A5%9E%E4%B9%8B%E8%9D%B6/capsule_%E6%89%AD%E8%9B%8B/3_stella_mini_acrylic_CL.jpg"
             }
           ]
         },
@@ -5354,7 +5425,7 @@ window.CATALOG_DATA = {
       "folder": "riddle_RIDDLE JOKER",
       "logo": "../riddle_RIDDLE%20JOKER/logo_%E6%A0%87%E5%BF%97/11_logo_RJ.jpg",
       "fallbackImage": "../riddle_RIDDLE%20JOKER/ac_board_%E4%BA%9A%E5%85%8B%E5%8A%9B%E6%9D%BF/08_RJ_ac_board_001.jpg",
-      "imageCount": 132,
+      "imageCount": 134,
       "products": [
         {
           "code": "ac_board",
@@ -5589,6 +5660,14 @@ window.CATALOG_DATA = {
             {
               "name": "22_Rj_capsule_acrylicKH_4.jpg",
               "src": "../riddle_RIDDLE%20JOKER/capsule_%E6%89%AD%E8%9B%8B/22_Rj_capsule_acrylicKH_4.jpg"
+            },
+            {
+              "name": "4_RJ_mini_acrylic_CL_1.jpg",
+              "src": "../riddle_RIDDLE%20JOKER/capsule_%E6%89%AD%E8%9B%8B/4_RJ_mini_acrylic_CL_1.jpg"
+            },
+            {
+              "name": "5_RJ_mini_acrylic_CL_2.jpg",
+              "src": "../riddle_RIDDLE%20JOKER/capsule_%E6%89%AD%E8%9B%8B/5_RJ_mini_acrylic_CL_2.jpg"
             }
           ]
         },
@@ -6200,7 +6279,7 @@ window.CATALOG_DATA = {
       "folder": "senren_千恋＊万花",
       "logo": "../senren_%E5%8D%83%E6%81%8B%EF%BC%8A%E4%B8%87%E8%8A%B1/logo_%E6%A0%87%E5%BF%97/10_logo_senren.jpg",
       "fallbackImage": "../senren_%E5%8D%83%E6%81%8B%EF%BC%8A%E4%B8%87%E8%8A%B1/2waybag_%E4%B8%A4%E7%94%A8%E5%8C%85/86_senren_2waybag_2.jpg",
-      "imageCount": 124,
+      "imageCount": 126,
       "products": [
         {
           "code": "2waybag",
@@ -6526,6 +6605,14 @@ window.CATALOG_DATA = {
             {
               "name": "23_senren_capsule3.jpg",
               "src": "../senren_%E5%8D%83%E6%81%8B%EF%BC%8A%E4%B8%87%E8%8A%B1/capsule_%E6%89%AD%E8%9B%8B/23_senren_capsule3.jpg"
+            },
+            {
+              "name": "6_sen_mini_acrylic_CL_1.jpg",
+              "src": "../senren_%E5%8D%83%E6%81%8B%EF%BC%8A%E4%B8%87%E8%8A%B1/capsule_%E6%89%AD%E8%9B%8B/6_sen_mini_acrylic_CL_1.jpg"
+            },
+            {
+              "name": "7_sen_mini_acrylic_CL_2.jpg",
+              "src": "../senren_%E5%8D%83%E6%81%8B%EF%BC%8A%E4%B8%87%E8%8A%B1/capsule_%E6%89%AD%E8%9B%8B/7_sen_mini_acrylic_CL_2.jpg"
             }
           ]
         },
@@ -7035,7 +7122,7 @@ window.CATALOG_DATA = {
       "folder": "sabbat_魔女的夜宴",
       "logo": "../sabbat_%E9%AD%94%E5%A5%B3%E7%9A%84%E5%A4%9C%E5%AE%B4/logo_%E6%A0%87%E5%BF%97/09_logo_SW.jpg",
       "fallbackImage": "../sabbat_%E9%AD%94%E5%A5%B3%E7%9A%84%E5%A4%9C%E5%AE%B4/ac_board_%E4%BA%9A%E5%85%8B%E5%8A%9B%E6%9D%BF/01_sw_ac_board_001.jpg",
-      "imageCount": 33,
+      "imageCount": 34,
       "products": [
         {
           "code": "ac_board",
@@ -7116,6 +7203,10 @@ window.CATALOG_DATA = {
             {
               "name": "25_SW_capsule_2.jpg",
               "src": "../sabbat_%E9%AD%94%E5%A5%B3%E7%9A%84%E5%A4%9C%E5%AE%B4/capsule_%E6%89%AD%E8%9B%8B/25_SW_capsule_2.jpg"
+            },
+            {
+              "name": "8_sw_mini_acrylic_CL.jpg",
+              "src": "../sabbat_%E9%AD%94%E5%A5%B3%E7%9A%84%E5%A4%9C%E5%AE%B4/capsule_%E6%89%AD%E8%9B%8B/8_sw_mini_acrylic_CL.jpg"
             }
           ]
         },
@@ -7317,7 +7408,7 @@ window.CATALOG_DATA = {
       "folder": "amairo_天色幻想岛",
       "logo": "../amairo_%E5%A4%A9%E8%89%B2%E5%B9%BB%E6%83%B3%E5%B2%9B/logo_%E6%A0%87%E5%BF%97/08_logo_amairo.jpg",
       "fallbackImage": "../amairo_%E5%A4%A9%E8%89%B2%E5%B9%BB%E6%83%B3%E5%B2%9B/acrylic_clock_%E4%BA%9A%E5%85%8B%E5%8A%9B%E9%92%9F/6_ama_acrylicclock1_.jpg",
-      "imageCount": 17,
+      "imageCount": 18,
       "products": [
         {
           "code": "acrylic_clock",
@@ -7372,6 +7463,10 @@ window.CATALOG_DATA = {
             {
               "name": "27_ama_capsule_2.jpg",
               "src": "../amairo_%E5%A4%A9%E8%89%B2%E5%B9%BB%E6%83%B3%E5%B2%9B/capsule_%E6%89%AD%E8%9B%8B/27_ama_capsule_2.jpg"
+            },
+            {
+              "name": "9_ama_mini_acrylic_CL.jpg",
+              "src": "../amairo_%E5%A4%A9%E8%89%B2%E5%B9%BB%E6%83%B3%E5%B2%9B/capsule_%E6%89%AD%E8%9B%8B/9_ama_mini_acrylic_CL.jpg"
             }
           ]
         },
@@ -7479,7 +7574,7 @@ window.CATALOG_DATA = {
       "folder": "dracu_DRACU-RIOT!",
       "logo": "../dracu_DRACU-RIOT%21/logo_%E6%A0%87%E5%BF%97/07_logo_DR.jpg",
       "fallbackImage": "../dracu_DRACU-RIOT%21/big_blanket_%E5%A4%A7%E6%AF%9B%E6%AF%AF/1_DRA_bigblanket_shugo_.jpg",
-      "imageCount": 12,
+      "imageCount": 13,
       "products": [
         {
           "code": "big_blanket",
@@ -7508,6 +7603,10 @@ window.CATALOG_DATA = {
           "title": "扭蛋",
           "folder": "capsule_扭蛋",
           "images": [
+            {
+              "name": "10_DRA_mini_acrylic_CL.jpg",
+              "src": "../dracu_DRACU-RIOT%21/capsule_%E6%89%AD%E8%9B%8B/10_DRA_mini_acrylic_CL.jpg"
+            },
             {
               "name": "28_dra_capsule_1.jpg",
               "src": "../dracu_DRACU-RIOT%21/capsule_%E6%89%AD%E8%9B%8B/28_dra_capsule_1.jpg"
@@ -8722,6 +8821,24 @@ window.CATALOG_DATA = {
           ]
         }
       ]
+    },
+    {
+      "code": ".git",
+      "title": ".git",
+      "folder": ".git",
+      "logo": "",
+      "fallbackImage": "",
+      "imageCount": 0,
+      "products": []
+    },
+    {
+      "code": ".github",
+      "title": ".github",
+      "folder": ".github",
+      "logo": "",
+      "fallbackImage": "",
+      "imageCount": 0,
+      "products": []
     }
   ]
 };
