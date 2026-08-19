@@ -1894,192 +1894,192 @@ window.CATALOG_DATA = {
             {
               "name": "10_DRA_mini_acrylic_CL.jpg",
               "src": "../gacha/10_DRA_mini_acrylic_CL.jpg",
-              "work": "gacha"
+              "work": "扭蛋机"
             },
             {
               "name": "11_yuzu_mini_acrylic_CL_1.jpg",
               "src": "../gacha/11_yuzu_mini_acrylic_CL_1.jpg",
-              "work": "gacha"
+              "work": "扭蛋机"
             },
             {
               "name": "12_yuzu_mini_acrylic_CL_2.jpg",
               "src": "../gacha/12_yuzu_mini_acrylic_CL_2.jpg",
-              "work": "gacha"
+              "work": "扭蛋机"
             },
             {
               "name": "13_yuzu_mini_acrylic_CL_3.jpg",
               "src": "../gacha/13_yuzu_mini_acrylic_CL_3.jpg",
-              "work": "gacha"
+              "work": "扭蛋机"
             },
             {
               "name": "14_yuzu_mini_acrylic_CL_4.jpg",
               "src": "../gacha/14_yuzu_mini_acrylic_CL_4.jpg",
-              "work": "gacha"
+              "work": "扭蛋机"
             },
             {
               "name": "15_PARQUET_capsule.jpg",
               "src": "../gacha/15_PARQUET_capsule.jpg",
-              "work": "gacha"
+              "work": "扭蛋机"
             },
             {
               "name": "16_stella_capsule_akusutaCL.jpg",
               "src": "../gacha/16_stella_capsule_akusutaCL.jpg",
-              "work": "gacha"
+              "work": "扭蛋机"
             },
             {
               "name": "17_tensz_acrylic_KH_CL2.jpg",
               "src": "../gacha/17_tensz_acrylic_KH_CL2.jpg",
-              "work": "gacha"
+              "work": "扭蛋机"
             },
             {
               "name": "18_stella_capsule_KH.jpg",
               "src": "../gacha/18_stella_capsule_KH.jpg",
-              "work": "gacha"
+              "work": "扭蛋机"
             },
             {
               "name": "19_RJ_capsule.jpg",
               "src": "../gacha/19_RJ_capsule.jpg",
-              "work": "gacha"
+              "work": "扭蛋机"
             },
             {
               "name": "1_tensz_capsule_ac_cl.jpg",
               "src": "../gacha/1_tensz_capsule_ac_cl.jpg",
-              "work": "gacha"
+              "work": "扭蛋机"
             },
             {
               "name": "20_RJ_capsule2.jpg",
               "src": "../gacha/20_RJ_capsule2.jpg",
-              "work": "gacha"
+              "work": "扭蛋机"
             },
             {
               "name": "21_Rj_capsule_acrylicKH_3.jpg",
               "src": "../gacha/21_Rj_capsule_acrylicKH_3.jpg",
-              "work": "gacha"
+              "work": "扭蛋机"
             },
             {
               "name": "22_Rj_capsule_acrylicKH_4.jpg",
               "src": "../gacha/22_Rj_capsule_acrylicKH_4.jpg",
-              "work": "gacha"
+              "work": "扭蛋机"
             },
             {
               "name": "23_senren_capsule3.jpg",
               "src": "../gacha/23_senren_capsule3.jpg",
-              "work": "gacha"
+              "work": "扭蛋机"
             },
             {
               "name": "24_SW_capsule_1.jpg",
               "src": "../gacha/24_SW_capsule_1.jpg",
-              "work": "gacha"
+              "work": "扭蛋机"
             },
             {
               "name": "25_SW_capsule_2.jpg",
               "src": "../gacha/25_SW_capsule_2.jpg",
-              "work": "gacha"
+              "work": "扭蛋机"
             },
             {
               "name": "26_ama_capsule_1.jpg",
               "src": "../gacha/26_ama_capsule_1.jpg",
-              "work": "gacha"
+              "work": "扭蛋机"
             },
             {
               "name": "27_ama_capsule_2.jpg",
               "src": "../gacha/27_ama_capsule_2.jpg",
-              "work": "gacha"
+              "work": "扭蛋机"
             },
             {
               "name": "28_dra_capsule_1.jpg",
               "src": "../gacha/28_dra_capsule_1.jpg",
-              "work": "gacha"
+              "work": "扭蛋机"
             },
             {
               "name": "29_dra_capsule_2.jpg",
               "src": "../gacha/29_dra_capsule_2.jpg",
-              "work": "gacha"
+              "work": "扭蛋机"
             },
             {
               "name": "2_tensz_acrylicstandCL.jpg",
               "src": "../gacha/2_tensz_acrylicstandCL.jpg",
-              "work": "gacha"
+              "work": "扭蛋机"
             },
             {
               "name": "30_yuzu_capsule2.jpg",
               "src": "../gacha/30_yuzu_capsule2.jpg",
-              "work": "gacha"
+              "work": "扭蛋机"
             },
             {
               "name": "31_yuzu_capsule1.jpg",
               "src": "../gacha/31_yuzu_capsule1.jpg",
-              "work": "gacha"
+              "work": "扭蛋机"
             },
             {
               "name": "32_yuzu_capsule_dot_1.jpg",
               "src": "../gacha/32_yuzu_capsule_dot_1.jpg",
-              "work": "gacha"
+              "work": "扭蛋机"
             },
             {
               "name": "33_yuzu_capsule_dot_2.jpg",
               "src": "../gacha/33_yuzu_capsule_dot_2.jpg",
-              "work": "gacha"
+              "work": "扭蛋机"
             },
             {
               "name": "34_yuzu_capsule_dot_3.jpg",
               "src": "../gacha/34_yuzu_capsule_dot_3.jpg",
-              "work": "gacha"
+              "work": "扭蛋机"
             },
             {
               "name": "35_yuzu_capsule_song.jpg",
               "src": "../gacha/35_yuzu_capsule_song.jpg",
-              "work": "gacha"
+              "work": "扭蛋机"
             },
             {
               "name": "36_yuzu_capsule_jitime1.jpg",
               "src": "../gacha/36_yuzu_capsule_jitime1.jpg",
-              "work": "gacha"
+              "work": "扭蛋机"
             },
             {
               "name": "37_yuzu_capsule_jitime2.jpg",
               "src": "../gacha/37_yuzu_capsule_jitime2.jpg",
-              "work": "gacha"
+              "work": "扭蛋机"
             },
             {
               "name": "38_yuzu_acrylic_KH_CL_jito3.jpg",
               "src": "../gacha/38_yuzu_acrylic_KH_CL_jito3.jpg",
-              "work": "gacha"
+              "work": "扭蛋机"
             },
             {
               "name": "3_stella_mini_acrylic_CL.jpg",
               "src": "../gacha/3_stella_mini_acrylic_CL.jpg",
-              "work": "gacha"
+              "work": "扭蛋机"
             },
             {
               "name": "4_RJ_mini_acrylic_CL_1.jpg",
               "src": "../gacha/4_RJ_mini_acrylic_CL_1.jpg",
-              "work": "gacha"
+              "work": "扭蛋机"
             },
             {
               "name": "5_RJ_mini_acrylic_CL_2.jpg",
               "src": "../gacha/5_RJ_mini_acrylic_CL_2.jpg",
-              "work": "gacha"
+              "work": "扭蛋机"
             },
             {
               "name": "6_sen_mini_acrylic_CL_1.jpg",
               "src": "../gacha/6_sen_mini_acrylic_CL_1.jpg",
-              "work": "gacha"
+              "work": "扭蛋机"
             },
             {
               "name": "7_sen_mini_acrylic_CL_2.jpg",
               "src": "../gacha/7_sen_mini_acrylic_CL_2.jpg",
-              "work": "gacha"
+              "work": "扭蛋机"
             },
             {
               "name": "8_sw_mini_acrylic_CL.jpg",
               "src": "../gacha/8_sw_mini_acrylic_CL.jpg",
-              "work": "gacha"
+              "work": "扭蛋机"
             },
             {
               "name": "9_ama_mini_acrylic_CL.jpg",
               "src": "../gacha/9_ama_mini_acrylic_CL.jpg",
-              "work": "gacha"
+              "work": "扭蛋机"
             }
           ]
         },
@@ -8534,7 +8534,7 @@ window.CATALOG_DATA = {
     },
     {
       "code": "gacha",
-      "title": "gacha",
+      "title": "扭蛋机",
       "folder": "gacha",
       "logo": "../gacha/logo_%E6%A0%87%E5%BF%97/gacha%20logo.png",
       "fallbackImage": "../gacha/10_DRA_mini_acrylic_CL.jpg",
