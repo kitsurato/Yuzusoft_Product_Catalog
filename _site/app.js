@@ -83,16 +83,28 @@ function renderActiveWork() {
 
 function renderTabs() {
   const work = state.activeWork;
-  const tabs = [{ code: "all", title: "全部" }, ...work.products];
+  const allCount = countVisibleImages(work);
+  const visibleProducts = work.products
+    .map((product) => ({
+      ...product,
+      visibleCount: filteredImagesFor(work, product).length,
+    }))
+    .filter((product) => product.visibleCount > 0);
+  const activeProductVisible = state.activeProduct === "all"
+    || visibleProducts.some((product) => product.code === state.activeProduct);
+  if (!activeProductVisible) {
+    state.activeProduct = "all";
+  }
+
+  const tabs = allCount > 0
+    ? [{ code: "all", title: "全部", visibleCount: allCount }, ...visibleProducts]
+    : [];
   els.productTabs.innerHTML = "";
 
   for (const product of tabs) {
     const button = document.createElement("button");
     button.className = `tab${state.activeProduct === product.code ? " active" : ""}`;
-    const count = product.code === "all"
-      ? countVisibleImages(work)
-      : filteredImagesFor(work, product).length;
-    button.textContent = `${product.title} ${count}`;
+    button.textContent = `${product.title} ${product.visibleCount}`;
     button.addEventListener("click", () => {
       state.activeProduct = product.code;
       renderTabs();
