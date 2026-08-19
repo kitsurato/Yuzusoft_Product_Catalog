@@ -8700,24 +8700,6 @@ window.CATALOG_DATA = {
           ]
         }
       ]
-    },
-    {
-      "code": ".git",
-      "title": ".git",
-      "folder": ".git",
-      "logo": "",
-      "fallbackImage": "",
-      "imageCount": 0,
-      "products": []
-    },
-    {
-      "code": ".github",
-      "title": ".github",
-      "folder": ".github",
-      "logo": "",
-      "fallbackImage": "",
-      "imageCount": 0,
-      "products": []
     }
   ]
 };
